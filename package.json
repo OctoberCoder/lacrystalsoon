@@ -1,0 +1,8 @@
+{
+  "name": "lacrystalsoon",
+  "version": "1.5.1",
+  "main": "index.js",
+  "repository": "https://github.com/goldenpencil/lacrystalsoon.git",
+  "author": "goldenpencil <georgeisaac603@gmail.com>",
+  "license": "MIT"
+}
