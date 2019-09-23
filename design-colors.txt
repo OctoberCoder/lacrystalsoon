@@ -1,3 +1,0 @@
-Golden top: #d8ab4e
-Golden bottom: #b48c36
-Charcoal Black: #040404

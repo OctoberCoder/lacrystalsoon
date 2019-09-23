@@ -1,15 +1,10 @@
-/* ===================================================================
- * Count - Main JS
- *
- * ------------------------------------------------------------------- */
-
 (function ($) {
 
     "use strict";
 
     var cfg = {
             scrollDuration: 800, // smoothscroll duration
-            mailChimpURL: 'https://netlify.us17.list-manage.com/subscribe/post?u=161e6d988755309d6ae9fa139&amp;id=668de2ae8b' // mailchimp url
+            mailChimpURL: 'https://gmail.us20.list-manage.com/subscribe/post?u=33fca72481c2b332bcaf2192b&amp;id=793df1783b' // mailchimp url
         },
 
         $WIN = $(window);
@@ -89,7 +84,7 @@
      * ------------------------------------------------------ */
     var ssFinalCountdown = function () {
 
-        var finalDate = '2019/09/01';
+        var finalDate = '2019/10/01';
 
         $('.home-content__clock').countdown(finalDate)
             .on('update.countdown finish.countdown', function (event) {
