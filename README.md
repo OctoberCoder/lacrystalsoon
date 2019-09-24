@@ -17,10 +17,10 @@ List of authors for this project
 * Lighthouse Media
 
 ## License
-[MIT] (https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Project Status
 Completed
 
 ## Contact
-Developed and Modified by [@lighthousemedia] (https://lighthousemedia.netlify.com)
+Developed and Modified by [@lighthousemedia](https://lighthousemedia.netlify.com)
