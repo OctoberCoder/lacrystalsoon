@@ -6,7 +6,7 @@ Coming soon page for La Crystal Agency
 ![Example mobile screenshot](images/mobile-view.png)
 
 ## Technologies Used
-```
+
 
 ## Contributing
 Pull requests are welcome. For major changes and bug fixes, kindly email me to discuss what you would like to change.
