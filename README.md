@@ -1,9 +1,6 @@
 # La Crystal Website
 Coming soon page for La Crystal Agency
 
-## Screenshots
-![Example desktop screenshot](https://github.com/goldenpencil/lacrystalsoon/blob/master/images/desktop-view.png)
-
 ## Technologies Used
 
 
