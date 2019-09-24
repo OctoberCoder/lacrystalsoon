@@ -2,7 +2,7 @@
 Coming soon page for La Crystal Agency
 
 ## Screenshots
-![Example desktop screenshot](.images/desktop-view.png)
+![Example desktop screenshot](images/desktop-view.png)
 
 ## Technologies Used
 
