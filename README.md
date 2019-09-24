@@ -12,8 +12,8 @@ Coming soon page for La Crystal Agency
 Pull requests are welcome. For major changes and bug fixes, kindly email me to discuss what you would like to change.
 
 ## Authors
-Isaac George
-Lighthouse Media
+```Isaac George ```
+```Lighthouse Media ```
 
 ## License
 [MIT] (https://choosealicense.com/licenses/mit/)
