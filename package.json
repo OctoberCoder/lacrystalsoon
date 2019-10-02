@@ -1,0 +1,19 @@
+{
+  "name": "lacrystalsoon",
+  "version": "1.2.9",
+  "description": "Coming soon page for La Crystal Agency",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldenpencil/lacrystalsoon.git"
+  },
+  "author": "Lighthouse Media, Isaac George",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goldenpencil/lacrystalsoon/issues"
+  },
+  "homepage": "https://github.com/goldenpencil/lacrystalsoon#readme"
+}
