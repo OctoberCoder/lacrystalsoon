@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/goldenpencil/lacrystalsoon/issues"
   },
-  "homepage": "https://github.com/goldenpencil/lacrystalsoon#readme"
+  "homepage": "https://github.com/goldenpencil/lacrystalsoon#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
